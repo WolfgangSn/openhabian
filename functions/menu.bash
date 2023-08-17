@@ -1,4 +1,4 @@
-e#!/usr/bin/env bash
+#!/usr/bin/env bash
 
 show_about() {
   local version
